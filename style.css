@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header {
+    background-color: #007bff;
+    padding: 15px;
+    color: white;
+}
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.hero, .destinations, .packages, .contact {
+    padding: 20px;
+}
+h1, h2 {
+    color: #333;
+}
